@@ -1,0 +1,3 @@
+rootProject.name = 'spring_module'
+
+include 'http-client'
